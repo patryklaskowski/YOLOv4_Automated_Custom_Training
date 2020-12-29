@@ -1,19 +1,30 @@
 # generate_train.py
 
-import os 
+#
+# Creates train.txt file where all train images paths are listed.
+# Save path: /mydrive/yolov4/<project_dir>/data/train.txt
+#
 
-train_folder_name = 'train_zebra_train'
+import os
 
-image_files = []
-os.chdir(os.path.join("data", train_folder_name))
-for filename in os.listdir(os.getcwd()):
-    if filename.endswith(".jpg"):
-        image_files.append(f"data/{train_folder_name}/" + filename)
+def main():
+    # Path to directory with images to train on
+    # /mydrive/yolov4/<project_dir>/data/train/
+    train_path = os.path.join(data_path, 'train')
 
-os.chdir("..") # /<base dir>/data
-with open("train.txt", "w") as file:
-    for image in image_files:
-        file.write(image)
-        file.write("\n")
+    image_files = []
+    for filename in os.listdir(train_path):
+      if filename.endswith('.jpg'):
+        image_files.append(os.path.join(train_path, filename))
 
-os.chdir("..") # /<base dir>
+    # /mydrive/yolov4/<project_dir>/data/
+    os.chdir(data_path)
+    print(data_path)
+    with open("train.txt", "w") as file:
+      for image in image_files:
+        file.write(f'{image}\n')
+
+    print(f'Found {len(image_files)} train images total ({len(image_files)/len(classes)} per class).')
+
+if __name__ == '__main__':
+    main()
