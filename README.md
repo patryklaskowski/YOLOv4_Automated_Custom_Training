@@ -9,3 +9,9 @@
 [Open Image Dataset](https://storage.googleapis.com/openimages/web/index.html)
 
 YOLOv4 [GitHub](https://github.com/AlexeyAB/darknet)
+
+### TODO:
+- [ ] "About" section
+- [ ] README "How to use"
+- [ ] Badges Open image dataset, Github YOLO
+- [ ] Link to "How to convert weights to TF format"
