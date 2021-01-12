@@ -3,3 +3,9 @@
 ---
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kqAuVZ4zU7nqIubLFzQa7F7YTt-T2t0b?usp=sharing)
+
+[![Made with Darknet](https://img.shields.io/badge/Made%20with-Darknet-000000?style=flat)](https://pjreddie.com/darknet/)
+
+[Open Image Dataset](https://storage.googleapis.com/openimages/web/index.html)
+
+YOLOv4 [GitHub](https://github.com/AlexeyAB/darknet)
