@@ -8,6 +8,14 @@
 
 ---
 
+### How to use:
+1) [Open](https://colab.research.google.com/drive/1kqAuVZ4zU7nqIubLFzQa7F7YTt-T2t0b?usp=sharing) Google Colaboratory Notebook.
+2) Choose GPU runtime.
+3) Run all cells.
+4) Ready to use weights are available on Your Google Drive in `./yolov4` directory.
+
+> **_NOTE:_**  To convert weights from Darknet format to Tensorflow go here: [Convert_Darknet_YOLO_to_TensorFlow](https://github.com/patryklaskowski/Convert_Darknet_YOLO_to_TensorFlow)
+
 ### Resources:
 
 [![Made with Darknet](https://img.shields.io/badge/Darknet-Neural%20Network%20in%20C-000000?style=flat)](https://pjreddie.com/darknet/)
