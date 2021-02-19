@@ -2,16 +2,17 @@
 
 ---
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kqAuVZ4zU7nqIubLFzQa7F7YTt-T2t0b?usp=sharing)
+## To start: 
 
-[![Made with Darknet](https://img.shields.io/badge/Made%20with-Darknet-000000?style=flat)](https://pjreddie.com/darknet/)
+- [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kqAuVZ4zU7nqIubLFzQa7F7YTt-T2t0b?usp=sharing)
 
-[Open Image Dataset](https://storage.googleapis.com/openimages/web/index.html)
 
-YOLOv4 [GitHub](https://github.com/AlexeyAB/darknet)
+---
 
-### TODO:
-- [ ] "About" section
-- [ ] README "How to use"
-- [ ] Badges Open image dataset, Github YOLO
-- [ ] Link to "How to convert weights to TF format"
+### Resources:
+
+- [![Made with Darknet](https://img.shields.io/badge/Darknet-Neural%20Network%20in%20C-000000?style=flat)](https://pjreddie.com/darknet/)
+- [![Open Image Dataset](https://img.shields.io/badge/Google-Open%20Image%20Dataset-800000?style=flat)](https://storage.googleapis.com/openimages/web/index.html)
+- [![YOLOv4 GitHub](https://img.shields.io/badge/YOLOv4-GitHub-199760?style=flat)](https://github.com/AlexeyAB/darknet)
+
+---
