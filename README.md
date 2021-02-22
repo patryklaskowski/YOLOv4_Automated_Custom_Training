@@ -8,6 +8,8 @@
 
 ---
 
+<p align="center"><img src="images/intro.gif" width="700"></p>
+
 ### How to use:
 1) [Open](https://colab.research.google.com/drive/1kqAuVZ4zU7nqIubLFzQa7F7YTt-T2t0b?usp=sharing) Google Colaboratory Notebook.
 2) Choose GPU runtime.
