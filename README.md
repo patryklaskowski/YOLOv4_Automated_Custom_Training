@@ -1,12 +1,13 @@
 # YOLOv4_Automated_Custom_Training
 
----
 
-## Click to open in Google Colaboratory: 
+### Click to open in Google Colaboratory: 
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kqAuVZ4zU7nqIubLFzQa7F7YTt-T2t0b?usp=sharing)
 
 ---
+
+<p align="center"><img src="images/intro.gif" width="700"></p>
 
 ### How to use:
 1) [Open](https://colab.research.google.com/drive/1kqAuVZ4zU7nqIubLFzQa7F7YTt-T2t0b?usp=sharing) Google Colaboratory Notebook.
